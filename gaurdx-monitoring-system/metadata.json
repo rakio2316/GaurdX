@@ -1,0 +1,14 @@
+{
+  "name": "GaurdX Monitoring System",
+  "description": "Autonomous aerial robot dashboard for intelligent monitoring and threat detection, featuring real-time weapon detection, suspicious activity alerts, and secure administrative controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "real_time_monitoring",
+    "threat_detection",
+    "user_management"
+  ]
+}
